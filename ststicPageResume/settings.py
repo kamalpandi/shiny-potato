@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-c83=p)_=$k&_ny@$=t=uky(wmrhi9sx6r2&0x!(@f7a&*4gaak
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['vibi.pythonanywhere.com ']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

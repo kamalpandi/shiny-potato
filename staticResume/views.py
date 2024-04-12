@@ -1,7 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 
 # Create your views here.
 
 
 def static_page(req):
-    return render(req, 'index.html')
+    return redirect("https://kamalpandi.github.io/Portfolio/")

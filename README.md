@@ -1,4 +1,4 @@
-# Deployed a Django Project to [PythonAnywhere](https://gvibi.pythonanywhere.com)
+# Deployed a Django Project to [PythonAnywhere](https://vibi.pythonanywhere.com)
 
 ### Idea:
 - learn how to deploy a webapp.

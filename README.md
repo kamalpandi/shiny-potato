@@ -7,3 +7,4 @@
 ## 
 ### Achivement
 - Created a redirect link to my github portfolio.
+- Make the site visible for anyone
